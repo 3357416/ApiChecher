@@ -1,0 +1,46 @@
+# Compute Pack CQA1	     GDLDWCQAS205
+# Controller CQA1	     GDLDWCQAS204
+# Controller CQA2	     GDLDWCQAS266
+# Wearable CQA1	         GDLDWCQAS201
+# Wearpack CQA1	         GDLDWCQAS202
+# Wearpack CQA2	         GDLDWCQAS203
+# Wearpack CQA3	         GDLDWCQAS207
+# WBST	                 GDLDWWBST201 http://10.55.20.35/GE/v1/api/routing/routecheck?process=WBST&equipmentName=GDLDWWBST201&serialNumber=G6732T0000KC
+# WETT	                 GDLNWWETT201 http://10.55.20.35/GE/v1/api/routing/routecheck?process=WETT&equipmentName=GDLNWWETT201&serialNumber=G672GT0001SB
+# WFMT	                 GDLDWWFMT201 http://10.55.20.35/GE/v1/api/routing/routecheck?process=WFMT&equipmentName=GDLDWWFMT201&serialNumber=
+# WITT	                 GDLDWWITT201
+# WSBT	                 GDLDWWSBT201
+# WSDT	                 GDLDWWSDT201
+# WSMT	                 GDLDWWSMT201 http://10.55.20.35/GE/v1/api/routing/routecheck?process=WSMT&equipmentName=GDLDWWSMT201&serialNumber=G772FT0000V2
+# WVBT	                 GDLDWWVBT201
+# WAAT	                 GDLDWWAAT201
+# WAVT	                 GDLNWWAVT201
+# WETA	                 GDLNWWETA201
+# WETI	                 GDLNWWETI201
+# WETP	                 GDLNWWETP201
+# WPAT	                 GDLDWWPAT201
+# CARRY CASE LABEL	     GDLDWWPCP201
+# LASER MARK CONTROL	 GDLDWTAMM201
+# LASER MARK WAEARABLE   GDLDWWPMM201
+# OBAT	                 GDLDWOBAS201
+# WCSF	                 GDLDWWCSF201
+# WUSF	                 GDLDWWUSF201
+
+    "WBST":"GDLDWWBST201", 
+    "WETT":"GDLNWWETT201", 
+    "WFMT":"GDLDWWFMT201", 
+    "WITT":"GDLDWWITT201",
+    "WSBT":"GDLDWWSBT201",
+    "WSDT":"GDLDWWSDT201",
+    "WSMT":"GDLDWWSMT201", 
+    "WVBT":"GDLDWWVBT201",
+    "WAAT":"GDLDWWAAT201",
+    "WAVT":"GDLNWWAVT201",
+    "WETA":"GDLNWWETA201",
+    "WETI":"GDLNWWETI201",
+    "WETP":"GDLNWWETP201",
+    "WPAT":"GDLDWWPAT201",
+    "OBAT":"GDLDWOBAS201",
+    "WCSF":"GDLDWWCSF201",
+    "WUSF":"GDLDWWUSF201",
+    "Wearpack%20CQA1%":"GDLDWCQAS202",
